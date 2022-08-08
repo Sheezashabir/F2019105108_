@@ -1,0 +1,34 @@
+.login
+{
+	background-image: url("loginback.png");
+    background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.form
+{
+	background-color: #14141499;
+	margin-top: 20px;
+	color: white;
+	padding-bottom: 2%;
+
+}
+.div1
+{
+	margin-top: 5%;
+}.in1
+{
+	width:95%;
+	height: 40px;
+	background-color: #f8f9fa6b;
+	border-color: #dee2e6ad;
+
+}
+.in2
+{
+	width:95%;
+	height: 40px;
+	background-color: #f8f9fade;
+	border-color: #f8f9fa;
+	color: black;
+	
+}
